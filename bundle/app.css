@@ -530,7 +530,7 @@ a {
   position: fixed;
   width: 150px;
   height: 100%;
-  font-size: 50px;
+  font-size: 40px;
   background-color: #fff;
   padding-left: 10px;
 }
@@ -588,12 +588,17 @@ a {
   overflow: auto;
 }
 
+.cart__title {
+  position: fixed;
+  z-index: 2;
+}
+
 .cart-item {
   height: 150px;
   margin-bottom: 10px;
   width: 300px;
   margin-right: 10px;
-  background: #;
+  background: #64d7e3;
 }
 
 .checkout {
