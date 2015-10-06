@@ -1,2 +1,2 @@
 #sikeio-buyshoes-startkit
-#DEMO
+##[Demo](http://yangxinlin.github.io/sikeio-buyshoes-startkit)
